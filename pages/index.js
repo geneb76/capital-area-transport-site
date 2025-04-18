@@ -72,8 +72,14 @@ export default function CapitalAreaTransportSite() {
       <section id="promotions" className="bg-gray-50 p-10">
         <h2 className="text-3xl font-bold text-center mb-8">Current Promotions</h2>
         <div className="bg-white p-6 rounded-2xl shadow text-center">
-          <h3 className="text-2xl font-bold mb-2">First Ride Free!</h3>
-          <p className="text-gray-700">New clients get their first non-emergency ride free of charge. Book today and experience our premium service!</p>
+          <h3 className="text-2xl font-bold mb-2">10 DOLLARS OFF ROUND TRIP FOR FIRST TIME CUSTOMERS</h3>
+<p className="text-gray-700 mb-4">
+  *PROMOTION CODE 02031401 MUST BE MENTIONED DURING RESERVATION
+</p>
+<p className="text-gray-700">
+  OR<br />
+  *Click here and leave a ⭐⭐⭐⭐⭐ review. Receive 5% off your next trip!
+</p>
         </div>
       </section>
 
