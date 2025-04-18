@@ -5,8 +5,8 @@ export default function CapitalAreaTransportSite() {
     <div className="min-h-screen bg-white text-gray-900">
       {/* Navigation */}
       <nav className="flex justify-between items-center p-6 bg-blue-600 text-white">
-       <div>
-  <img src="/logo.png" alt="logo Capital Area Transport" className="h-12" />
+      <div>
+  <img src="/logo.png" alt="Capital Area Transport Logo" className="h-12" />
 </div>
         <div className="space-x-6">
           <a href="#home" className="hover:underline">Home</a>
